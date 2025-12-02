@@ -5,7 +5,7 @@ Este repositorio contiene **todo el pipeline del proyecto de visión computacion
 
 - Reporte final en PDF  
 - Notebooks de entrenamiento (versiones V1, V2, V3)  
-- Notebook para cargar modelos entrenados  
+- Notebook para cargar modelos entrenados y hacer predicciones (Recomendado en Google Colab)
 - Modelos guardados en formato `.pth`  
 - Archivo `environment.yml` para reproducir el ambiente  
 - Dataset Cats-vs-Dogs de Kaggle
@@ -87,9 +87,8 @@ Dataset que contiene las imágenes que se usan para entrenar el modelo en format
 
 # 🚀 Cómo Usar Este Repositorio
 
-## 💻 Ejecución Local para hacer predicciones
-
-Abrir y ejecutar las instrucciones del archivo Python (perros-gatos) cargar modelo local.ipynb
-
-## 🌐 Ejecución en Google Colab
+## 🌐 Ejecución en Google Colab para hacer predicciones (RECOMENDADO)
 Abrir y ejecutar las instrucciones del archivo Python (perros-gatos) cargar modelo colab.ipynb
+
+## 💻 Ejecución Local para hacer predicciones
+Abrir y ejecutar las instrucciones del archivo Python (perros-gatos) cargar modelo local.ipynb
